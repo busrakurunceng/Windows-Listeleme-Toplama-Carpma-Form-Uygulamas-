@@ -1,0 +1,11 @@
+C:\Users\busra\source\repos\Nesneye Yönelik Programlama Ödevi01\nesne ödevi\nesne_ödev01\bin\Debug\nesne_ödev01.exe.config
+C:\Users\busra\source\repos\Nesneye Yönelik Programlama Ödevi01\nesne ödevi\nesne_ödev01\bin\Debug\nesne_ödev01.exe
+C:\Users\busra\source\repos\Nesneye Yönelik Programlama Ödevi01\nesne ödevi\nesne_ödev01\bin\Debug\nesne_ödev01.pdb
+C:\Users\busra\source\repos\Nesneye Yönelik Programlama Ödevi01\nesne ödevi\nesne_ödev01\obj\Debug\nesne_ödev01.csproj.AssemblyReference.cache
+C:\Users\busra\source\repos\Nesneye Yönelik Programlama Ödevi01\nesne ödevi\nesne_ödev01\obj\Debug\nesne_ödev01.csproj.SuggestedBindingRedirects.cache
+C:\Users\busra\source\repos\Nesneye Yönelik Programlama Ödevi01\nesne ödevi\nesne_ödev01\obj\Debug\nesne_ödev01.Form1.resources
+C:\Users\busra\source\repos\Nesneye Yönelik Programlama Ödevi01\nesne ödevi\nesne_ödev01\obj\Debug\nesne_ödev01.Properties.Resources.resources
+C:\Users\busra\source\repos\Nesneye Yönelik Programlama Ödevi01\nesne ödevi\nesne_ödev01\obj\Debug\nesne_ödev01.csproj.GenerateResource.cache
+C:\Users\busra\source\repos\Nesneye Yönelik Programlama Ödevi01\nesne ödevi\nesne_ödev01\obj\Debug\nesne_ödev01.csproj.CoreCompileInputs.cache
+C:\Users\busra\source\repos\Nesneye Yönelik Programlama Ödevi01\nesne ödevi\nesne_ödev01\obj\Debug\nesne_ödev01.exe
+C:\Users\busra\source\repos\Nesneye Yönelik Programlama Ödevi01\nesne ödevi\nesne_ödev01\obj\Debug\nesne_ödev01.pdb
